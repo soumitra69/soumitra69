@@ -88,8 +88,7 @@ _"The best way to learn is by building."_
 <a href="https://www.facebook.com/Soumitra69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/soumitra__somu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumitra" height="30" width="40" /></a>
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=🌐+Portfolio+Website+:+Under+Maintenance..." alt="Typing SVG" />
-</p>
+Protfolio Website : https://soumitrasamanta.netlify.app/ (Under maintenance........)
 
 
 

@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F76C6C&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Soumitra+Samanta;Frontend+Developer" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=F76C6C&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Soumitra+Samanta;Frontend+Developer;Trainee+MERN+Full+Stack+Developer"
+    alt="Typing SVG"
+  />
 </h1>
+
+
 
 <h3 align="left">A passionate frontend developer from India</h3>
 <h3> Based in Kolkata/Haldia</h3>

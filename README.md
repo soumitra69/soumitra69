@@ -17,8 +17,8 @@
 ---
 
 ## 🎓 Education
-- Diploma in CSE at [Global Institute of Science & Technology](https://gisthaldia.org/) | 2022 
-- B.Tech in CSE (AI & ML) at [Haldia Institute of Technology](https://hithaldia.ac.in/) | 2025
+- Diploma in CSE at [Global Institute of Science & Technology](https://gisthaldia.org/){:target="_blank"}  | 2022 
+- B.Tech in CSE (AI & ML) at [Haldia Institute of Technology](https://hithaldia.ac.in/){:target="_blank"}  | 2025
 
 ---
 ## 🎯 Career Objective
